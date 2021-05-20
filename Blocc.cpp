@@ -34,3 +34,4 @@ void Blocc::OnCollision(CollisionObject* collisionObject)
 		collisionObject->SetIsReadyForRemoval(true);
 	}
 }
+//Niels is zo gay woww
